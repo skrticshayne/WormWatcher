@@ -14,3 +14,6 @@ Then once we have this working lets get R graphs to populate from these quantifi
 
 
 so to start lets get a script that takes a video of worms then converts to binary accuratly (@sherc1 Ill get you a video by midweek)
+
+
+    Here are videos https://drive.google.com/drive/folders/1SM3szGu3VzXV3p9ug1t-6cQdsUrYTZor?usp=sharing
