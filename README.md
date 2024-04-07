@@ -22,10 +22,10 @@ so to start lets get a script that takes a video of worms then converts to binar
 
 
 Updates thus far 
-*Cropper Crops video with a gui for user 
-*Convert to grayscaler script not very useful tbh video kinda already in grayscale
-*Boxer.py This is the meat thus far Boxes video live for editing quit with q, need to refine overlapping boxes, boxes length of existence, yada yada
-*Added Requirement.txt 
+* Cropper Crops video with a gui for user 
+* Convert to grayscaler script not very useful tbh video kinda already in grayscale
+* Boxer.py This is the meat thus far Boxes video live for editing quit with q, need to refine overlapping boxes, boxes length of existence, yada yada
+* Added Requirement.txt 
 
 Plan 
 * Export these boxes into a new video one for each
